@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&text=Hi_there!)
-<img src="https://giphy.com/gifs/xMJTZxtYLJALg5nLGP" alt="sam">
+<img src="https://giphy.com/gifs/xMJTZxtYLJALg5nLGP" alt="sam"/>
 
 <!--
 **AndrewSydorenko/AndrewSydorenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
