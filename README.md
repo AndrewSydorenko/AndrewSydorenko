@@ -13,7 +13,7 @@ education: [
 currently_learning: ["Vue.js", "Next.js"]
 hobbies: ["Snowboarding", "Gaming", "Archery", "Trakking"]
 ```
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h2> 🚀 &nbsp;Some tools i have used and learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45" />
@@ -29,3 +29,5 @@ hobbies: ["Snowboarding", "Gaming", "Archery", "Trakking"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="mui" width="45" height="45"/>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/AndrewSydorenko/github-readme-stats)
