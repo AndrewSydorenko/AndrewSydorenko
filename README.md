@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&text=Hi_there!&animation=twinkling:twinkling1s)
+![header](https://capsule-render.vercel.app/api?type=venom&text=Hi_there!&animation=twinkling1s)
 <img align="center" src="https://giphy.com/gifs/xMJTZxtYLJALg5nLGP"/>
 
 <!--
