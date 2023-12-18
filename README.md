@@ -31,6 +31,6 @@ hobbies: ["Snowboarding", "Gaming", "Archery", "Trakking"]
 </p>
 
 <div>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewSydorenko&layout=compact&theme=github_dark_dimmed)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrewSydorenko&show_icons=true&theme=github_dark_dimmed)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewSydorenko&layout=compact&theme=github_dark_dimmed)
 </div>
