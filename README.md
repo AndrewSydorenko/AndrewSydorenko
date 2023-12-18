@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&text=Hello_Im_Andrew!)
+![header](https://capsule-render.vercel.app/api?type=venom&text=Hi_there!)
 
 <!--
 **AndrewSydorenko/AndrewSydorenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
