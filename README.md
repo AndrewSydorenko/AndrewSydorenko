@@ -30,5 +30,4 @@ hobbies: ["Snowboarding", "Gaming", "Archery", "Trakking"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="mui" width="45" height="45"/>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewSydorenko&layout=compact?)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrewSydorenko&show_icons=true?theme=prussian)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewSydorenko&layout=compact)
