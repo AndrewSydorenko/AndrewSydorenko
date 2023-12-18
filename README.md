@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&text=Hi_there!&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=venom&text=Hi_there!&animation=fadeIn&height=400)
 <img src="https://giphy.com/gifs/xMJTZxtYLJALg5nLGP"/>
 ```yaml
 name: Andrew Sydorenko
