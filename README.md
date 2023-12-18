@@ -5,7 +5,7 @@ name: Andrew Sydorenko
 location: Rivne, Ukraine
 current: Front End Developer
 
-education:[
+education: [
 "Go-IT bootcamp Full Stack Development",
 "Master in film and theathre acting",
 ]
