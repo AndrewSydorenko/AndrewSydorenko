@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&text=Hi_there!&animation=fadeIn&height=400)
-<img src="https://giphy.com/gifs/xMJTZxtYLJALg5nLGP"/>
+![header](https://capsule-render.vercel.app/api?type=venom&text=Hi_there!&animation=fadeIn&height=300)
 ```yaml
 name: Andrew Sydorenko
 location: Rivne, Ukraine
