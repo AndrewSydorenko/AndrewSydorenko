@@ -1,17 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&text=Hi_there!&animation=fadeIn)
 <img src="https://giphy.com/gifs/xMJTZxtYLJALg5nLGP"/>
+```yaml
+name: Andrew Sydorenko
+location: Rivne, Ukraine
+current: Front End Developer
 
-<!--
-**AndrewSydorenko/AndrewSydorenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+education:[
+"Go-IT bootcamp Full Stack Development",
+"Master in film and theathre acting",
+]
+currently_learning: ["Vue.js", "Next.js"]
+hobbies: ["Snowboarding", "Gaming", "Archery", "Trakking"]
+```
