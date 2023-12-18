@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&text=Hi_there!)
-![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=venom&text=Hi_there!&animation=fadeIn)
 <img align="center" src="https://giphy.com/gifs/xMJTZxtYLJALg5nLGP"/>
 
 <!--
