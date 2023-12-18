@@ -12,7 +12,7 @@ education: [
 currently_learning: ["Vue.js", "Next.js"]
 hobbies: ["Snowboarding", "Gaming", "Archery", "Trakking"]
 ```
-<h2> 🚀 &nbsp;Some tools i have used and learned</h2>
+<h2 align="center"> 🚀 &nbsp;Some tools i have used and learned</h2>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45" />
