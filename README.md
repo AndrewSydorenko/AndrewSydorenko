@@ -5,7 +5,7 @@ location: Rivne, Ukraine
 current: Front End Developer
 
 education: [
-"Go-IT bootcamp Full Stack Development",
+"Go-IT bootcamp Full Stack Developer",
 "Master in film and theathre acting",
 ]
 
@@ -27,6 +27,7 @@ hobbies: ["Snowboarding", "Gaming", "Archery", "Trakking"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="node" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="mui" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="45" height="45"/>
 </p>
 
 <div align="center">
