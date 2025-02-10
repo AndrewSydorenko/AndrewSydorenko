@@ -6,7 +6,7 @@ current: Front End Developer
 
 education: [
 "Go-IT bootcamp Full Stack Developer",
-"Master in film and theathre acting",
+"SoftServe Academy practical react course"
 ]
 
 currently_learning: ["Vue.js", "Next.js"]
